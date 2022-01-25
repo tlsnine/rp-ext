@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "ixgbe-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/releases/ixgbe-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/tlsnine/rp-ext/master/ixgbe/releases/ixgbe-4.4.180plus.tgz",
       "sha256": "716a41cd13f1f3c61f3d84f7c20491b395407a84916b1da36f490455f494943a",
       "packed": true
     },
     {
       "name": "check-ixgbe.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/src/check-ixgbe.sh",
+      "url": "https://raw.githubusercontent.com/tlsnine/rp-ext/master/ixgbe/src/check-ixgbe.sh",
       "sha256": "e8bc03eba9928e1f0645a5abb899dc2c4e5d85373c88d4000075b0aa38f12ff2",
       "packed": false
     }
